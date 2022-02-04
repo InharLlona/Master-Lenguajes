@@ -1,0 +1,23 @@
+{
+  "name": "master-lenguajes-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InharLlona/Master-Lenguajes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InharLlona/Master-Lenguajes/issues"
+  },
+  "homepage": "https://github.com/InharLlona/Master-Lenguajes#readme",
+  "dependencies": {
+    "colors.ts": "^1.0.20",
+    "typescript": "^4.5.5"
+  }
+}
